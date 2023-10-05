@@ -14,4 +14,5 @@ ControlSetText(DumpedJSON, "Edit1")
 WinWaitClose
 ExitApp
 
-#Include "%A_LineFile%\..\JSON.ahk"
+#Include "%A_LineFile%\..\..\.." ; Fix paths as lib files are stored in the root folder. 
+#Include "JSON.ahk"
