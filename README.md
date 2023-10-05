@@ -1,6 +1,8 @@
-## Lib
+## Lib for Autohotkey v2 
 
-Repository with some of my most used external Lib Functions/Classes.
+Repository with some of my most used external Lib Functions/Classes for Autohotkey v2.
+
+Examples are found in Examples folder.
 
 ### JSON.ahk
 
