@@ -2,7 +2,7 @@
 
 Repository with some of my most used external Lib Functions/Classes for Autohotkey v2.
 
-Examples are found in Examples folder.
+Examples are found in [Examples](https://github.com/marium0505/Lib/blob/main/Examples/JSON/JSON_Example.ahk) folder.
 
 ### JSON.ahk
 
