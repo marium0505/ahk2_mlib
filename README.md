@@ -23,4 +23,4 @@ With small modifications to JSON.ahk:
 
 ### Native.ahk
 
-*   See above.
+See above.
