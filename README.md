@@ -26,3 +26,15 @@ With small modifications to JSON.ahk:
 ### Native.ahk
 
 See above.
+
+### CNG.ahk
+
+AutoHotkey wrapper for CNG (Cryptography API: Next Generation) by jNizM.
+
+Github Project: [CNG](https://github.com/jNizM/AHK_CNG)  
+Autohtkey Forum Thread: [CNG](https://www.autohotkey.com/boards/viewtopic.php?t=96117)
+
+> All credits to author jNizM
+> 
+> Github Profile: [jNizM](https://github.com/jNizM)  
+> Autohotkey Forum Profile: [jNizM](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=75)
