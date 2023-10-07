@@ -2,7 +2,7 @@
 
 Repository with some of my most used external Lib Functions/Classes for Autohotkey v2.
 
-Examples are found in [Examples](https://github.com/marium0505/ahk2_m_lib/blob/main/Examples) folder.
+Examples are found in [Examples](https://github.com/marium0505/ahk2_mlib/blob/main/Examples) folder.
 
 ### JSON.ahk
 
@@ -21,7 +21,7 @@ With small modifications to JSON.ahk:
 *   Making "\`t" (Tab) the default space indentation for Dump/stringify. (Line 46)
 *   Moving the DLL files into a "DLL\\ahk-json" sub-folder and renaming the dll files into \[32|64\]bit-ahk-json.dll
 
-#### See [JSON Example.ahk](https://github.com/marium0505/ahk2_m_lib/blob/main/Examples/JSON/JSON_Example.ahk)
+#### See [JSON Example.ahk](https://github.com/marium0505/ahk2_mlib/blob/main/Examples/JSON/JSON_Example.ahk)
 
 ### Native.ahk
 
