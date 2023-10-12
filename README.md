@@ -4,7 +4,7 @@ Repository with some of my most used external Lib Functions/Classes for Autohotk
 
 Examples are found in [Examples](https://github.com/marium0505/ahk2_mlib/blob/main/Examples) folder.
 
-### JSON.ahk
+### Class_JSON.ahk
 
 [JSON library](https://www.autohotkey.com/boards/viewtopic.php?p=446749#p446749) based on [Native.ahk](https://www.autohotkey.com/boards/viewtopic.php?p=445069#p445069)
 
@@ -23,11 +23,11 @@ With small modifications to JSON.ahk:
 
 #### See [JSON Example.ahk](https://github.com/marium0505/ahk2_mlib/blob/main/Examples/JSON/JSON_Example.ahk)
 
-### Native.ahk
+### Class_Native.ahk
 
 See above.
 
-### CNG.ahk
+### Class_CNG.ahk
 
 AutoHotkey wrapper for CNG (Cryptography API: Next Generation) by jNizM.
 

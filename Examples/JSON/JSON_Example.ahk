@@ -4,7 +4,7 @@ Persistent
 
 MyObj := {}
 MyObj.Setmylife := "On fire"
-MapObj := Map("Hei", [1, 2, 3, 4, 10], "Stuff", { Hei: "På deg" }, "Obj", MyObj)
+MapObj := Map("Hey", [1, 2, 3, 4, 10], "Stuff", { Hallo: "Hey you" }, "Obj", MyObj)
 MapObj["ArrayWithMap"] := [ThisMap := Map("Hey", "Name1", "Hey2", "Name2"),ThisMap,ThisMap]
 DumpedJSON := JSON.Dump(&MapObj)
 ListVars  ; Use AutoHotkey's main window to display the formatted and dumped JSON 
@@ -15,4 +15,4 @@ WinWaitClose
 ExitApp
 
 #Include "%A_LineFile%\..\..\.." ; Fix paths as lib files are stored in the root folder. 
-#Include "JSON.ahk"
+#Include "Class_JSON.ahk"

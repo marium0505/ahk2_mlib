@@ -1,4 +1,5 @@
 ﻿#Requires AutoHotkey v2.0+
+
 /*
 ; JSON library for v2, written by cpp
 ; https://www.autohotkey.com/boards/viewtopic.php?p=446749#p446749
@@ -28,4 +29,5 @@ class JSON {
 	static Dump(&obj, space := "`t") => this.Stringify(obj, space)
 }
 
-#Include "%A_LineFile%\..\Native.ahk"
+
+#Include "%A_LineFile%\..\Class_Native.ahk"
